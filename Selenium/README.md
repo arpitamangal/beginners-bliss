@@ -1,3 +1,3 @@
 # Selenium 
 
-Selenium automates browsers.Selenium is a powerful tool for web scraping in Python that allows to automate web browsers to extract data from websites.
+Selenium automates browsers. Python bindings for Selenium are powerful tools for web scraping that allows to automate web browsers and extract data from websites.
